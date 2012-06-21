@@ -43,6 +43,6 @@ Gem::Specification.new do |s|
     s.add_dependency(%q<multi_json>,      ["~> 1.3.0"])
     s.add_dependency(%q<rspec>,     ["~> 2.8.0rc1"])
     s.add_dependency(%q<rake>,      ["~> 0.8.7"])
-    s.add_dependency(%q<faraday>,  ["~> 0.7.0"])
+    s.add_dependency(%q<faraday>,  ["~> 0.8"])
   end
 end
